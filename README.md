@@ -1,6 +1,6 @@
 # Credit_Card_Fraud_Detection
-The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions with various ML models.
-This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
+  The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions with various ML models.
+  This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
 
 **#Key Features:**
 1.id: Unique identifier for each transaction
@@ -14,4 +14,7 @@ This dataset contains credit card transactions made by European cardholders in t
 3.Transaction Type Analysis: Analyze whether certain types of transactions are more prone to fraud than others.
 
 **Data Source: **
-!.The dataset was collected from credit card transactions made by European cardholders in 2023, with sensitive information removed to ensure privacy and compliance with ethical guidelines.
+1.The dataset was collected from credit card transactions made by European cardholders in 2023, with sensitive information removed to ensure privacy and compliance with ethical guidelines.
+
+**Dataset:**
+  Dataset is large to upload in github Kindly find it in kaggle
